@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kawipat11
-- 👀 I’m interested in programming ,data science and data analyst
+- 👀 I’m interested in programming ,data science and data analysis
 - 📫 How to reach me kawipat41@gmail.com
 
 <!---
